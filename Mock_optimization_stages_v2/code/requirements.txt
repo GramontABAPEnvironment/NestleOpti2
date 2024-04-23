@@ -1,0 +1,7 @@
+dash==2.16.1
+dash-bootstrap-components==1.5.0
+numpy==1.26.4
+openpyxl==3.1.2
+pandas==2.2.1
+Pyomo==6.7.1
+XlsxWriter==3.2.0
